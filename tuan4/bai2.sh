@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "Nhap vao mot so:"
 	read so
 	if [ $so -lt 0 ]
